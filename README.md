@@ -9,8 +9,8 @@ This is going to be built using:
 ### Things to do
 
 - [x] Create React app
-- [ ] Create layout
-- [ ] Use waypoints for navigation
+- [x] Create layout
+- [x] Use waypoints for navigation
 - [ ] Add text
 - [ ] Create links to github and Linkedin
-- [ ] have typewriter effect for header
+- [x] have typewriter effect for header
